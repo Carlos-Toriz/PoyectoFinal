@@ -60,3 +60,14 @@ h1{
 	text-align: Center;
 
 }
+.footer{
+	height: 100px;
+    width: 100%;	
+    background-color: #003049;
+    font-size: 13px;
+	color: #cbdad5;
+	font-style: italic;
+	display: flex;
+  	justify-content: center;  /* Centrado horizontal */
+  	align-items: center;      /* Centrado vertical */
+}
